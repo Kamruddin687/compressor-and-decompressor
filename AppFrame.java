@@ -1,4 +1,4 @@
-//@author Mozammil Anwar
+//@author kamruddin
 package GUI;
 import compressor_decompressor.compress;
 import compressor_decompressor.decompress;
